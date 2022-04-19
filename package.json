@@ -1,0 +1,24 @@
+{
+  "name": "test-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eschermarlie/test-backend.git"
+  },
+  "author": "Escher Marlie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eschermarlie/test-backend/issues"
+  },
+  "homepage": "https://github.com/eschermarlie/test-backend#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "express": "^4.17.3"
+  }
+}
